@@ -1,8 +1,8 @@
 # make-the-ai-judge-laugh
 
 [![make.fun · u-alfasurya91-make-the-ai-judge-laugh-6ed40225](https://make.fun/badge/u-alfasurya91-make-the-ai-judge-laugh-6ed40225.svg)](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225)
-[![rank](https://make.fun/badge/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/hungndp/make-the-ai-judge-laugh/rank.svg)](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225)
-[![reward](https://make.fun/badge/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/hungndp/make-the-ai-judge-laugh/reward.svg)](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225)
+[![rank](https://make.fun/badge/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/hungndp/make-the-ai-judge-laugh-alfasurya91/rank.svg)](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225)
+[![reward](https://make.fun/badge/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/hungndp/make-the-ai-judge-laugh-alfasurya91/reward.svg)](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225)
 
 One line about office life, under 200 characters, written to make the AI judge laugh: a concrete incident, one mundane prop (the quiet room), and a second surprise that reframes the setup — the escape from meetings has itself become a meeting. Twist word last, stop at the landing.
 
